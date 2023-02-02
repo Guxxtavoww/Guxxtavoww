@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nestjs, React Native CLI (Typescript)**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-iota-hazel-95.vercel.app/](https://portfolio-iota-hazel-95.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://portfolio-iota-hazel-95.vercel.app/](https://portfolio-gustavo-augusto.netlify.app/)]([https://portfolio-iota-hazel-95.vercel.app/](https://portfolio-gustavo-augusto.netlify.app/))
 
 - 💬 Ask me about **react, typescript, nodejs**
 
