@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Nestjs, React Native CLI (Typescript)**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-iota-hazel-95.vercel.app/] (in my portfolio)
+- 👨‍💻 All of my projects are available at [https://portfolio-gustavo-augusto.netlify.app/] (in my portfolio)
 
 - 💬 Ask me about **react, typescript, nodejs**
 
 - 📫 How to reach me **gustavoaugustocar@hotmail.com**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-iota-hazel-95.vercel.app/] (in my portfolio)
+- 👨‍💻 All of my projects are available at [https://portfolio-gustavo-augusto.netlify.app/] (in my portfolio)
 
 - ⚡ Fun fact **Really love to know how things work.**
 
