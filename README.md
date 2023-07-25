@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gustavoaugustocar@hotmail.com**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-iota-hazel-95.vercel.app/](in my portfolio)
+- 👨‍💻 All of my projects are available at [https://portfolio-iota-hazel-95.vercel.app/] (in my portfolio)
 
 - ⚡ Fun fact **Really love to know how things work.**
 
