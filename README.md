@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [in my portfolio](https://portfolio-gustavo-augusto.netlify.app/)
 
-- 💬 Ask me about **react, typescript, nodejs**
+- 💬 Ask me about **react, typescript, nodejs, git**
 
 - 📫 How to reach me **gustavoaugustocar@hotmail.com**
 
