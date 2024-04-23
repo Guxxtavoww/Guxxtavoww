@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gustavo!</h1>
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [wms](https://dev.admin.pdahub.com.br)
+- 🌱 I’m currently learning **Rust**
 
-- 🌱 I’m currently learning **Nestjs, React Native CLI (Typescript)**
-
-- 👨‍💻 All of my projects are available at [in my portfolio](https://portfolio-gustavo-augusto.netlify.app/)
+- 👨‍💻 All of my projects are available at [in my portfolio](https://gustavo-augusto-portfolio.vercel.app/#home)
 
 - 💬 Ask me about **react, typescript, nodejs, git**
 
 - 📫 How to reach me **gustavoaugustocar@hotmail.com**
 
-- 👨‍💻 All of my projects are available at [in my portfolio](https://portfolio-gustavo-augusto.netlify.app/)
+- 👨‍💻 All of my projects are available at [in my portfolio](https://gustavo-augusto-portfolio.vercel.app/#home)
 
 - ⚡ Fun fact **Really love to know how things work.**
 
